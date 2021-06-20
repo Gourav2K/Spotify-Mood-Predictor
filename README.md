@@ -11,3 +11,7 @@
 2. Emotional Models: There are two dominant emotional models in the music-mood classification space: valence-arousal and GEMS. 
 3. Perceived vs Induced Emotion: The ultimate goal of a model is not to label a song according to mood, but predict how a song invokes a particular emotion in the user. 
 
+## The Approach: 
+ 1. Predicting a track’s perceived mood to a listener through analyzing audio features![image](https://user-images.githubusercontent.com/62847225/122662333-c89ac400-d1af-11eb-8ce5-77dcd1efec64.png)02
+![image](https://user-images.githubusercontent.com/62847225/122662337-d3edef80-d1af-11eb-9037-b6880000065a.png)
+
