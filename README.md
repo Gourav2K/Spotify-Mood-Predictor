@@ -14,4 +14,6 @@
 ## The Approach: 
  1. Predicting a track’s perceived mood to a listener through analyzing audio features![image](https://user-images.githubusercontent.com/62847225/122662333-c89ac400-d1af-11eb-8ce5-77dcd1efec64.png)
 ![image](https://user-images.githubusercontent.com/62847225/122662348-e7995600-d1af-11eb-9410-1f0dc0b483b3.png) ![image](https://user-images.githubusercontent.com/62847225/122662337-d3edef80-d1af-11eb-9037-b6880000065a.png) 
+Predicting a track’s perceived mood to a user through analyzing song lyrics.
+![image](https://user-images.githubusercontent.com/62847225/122662370-0c8dc900-d1b0-11eb-8aa2-01ee9cd54c19.png)
 
