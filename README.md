@@ -26,4 +26,4 @@
 5. http://eecs.qmul.ac.uk/~simond/pub/2016/SongDixonPearceHalpern-MusicPerception2016-preprint.pdf (Perceived vs. induced emotion study, Part 3)
 
 
-### Proggramming has been done by the team of - Gourav Kumar, Lucy Lyu and Rajat Agarwal
+### Programming has been done by the team of - Gourav Kumar, Lucy Lyu and Rajat Agarwal
