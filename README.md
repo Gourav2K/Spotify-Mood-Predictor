@@ -12,8 +12,18 @@
 3. Perceived vs Induced Emotion: The ultimate goal of a model is not to label a song according to mood, but predict how a song invokes a particular emotion in the user. 
 
 ## The Approach: 
- 1. Predicting a track’s perceived mood to a listener through analyzing audio features![image](https://user-images.githubusercontent.com/62847225/122662333-c89ac400-d1af-11eb-8ce5-77dcd1efec64.png)
-![image](https://user-images.githubusercontent.com/62847225/122662348-e7995600-d1af-11eb-9410-1f0dc0b483b3.png) ![image](https://user-images.githubusercontent.com/62847225/122662337-d3edef80-d1af-11eb-9037-b6880000065a.png) 
-Predicting a track’s perceived mood to a user through analyzing song lyrics.
-![image](https://user-images.githubusercontent.com/62847225/122662370-0c8dc900-d1b0-11eb-8aa2-01ee9cd54c19.png)
+1. Predicting a track’s perceived mood to a listener through analyzing audio features
+2 Predicting a track’s perceived mood to a user through analyzing song lyrics.
+3. Predicting initial moods and visualizing induced mood changes through a user’s music streaming experience!
 
+## The explanation of each of the three parts has been given in the respective folders.
+
+## References
+1. https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset (Kaggle Dataset, Part 1)
+2. https://www.researchgate.net/profile/Mohamed-Sordo-2/publication/220723819_Music_Mood_and_Theme_Classification_-_a_Hybrid_Approach/links/0f3175370eeab3fb2f000000/Music-Mood-and-Theme-Classification-a-Hybrid-Approach.pdf (Music Mood Classification Study, Part 1)
+3. http://mac.citi.sinica.edu.tw/ (Contextual emotion study dataset, Part 3)
+4. https://www.semanticscholar.org/paper/LJ2M-dataset%3A-Toward-better-understanding-of-music-Liu-Liu/67f6f8e28f78916fb3bebe60d2da36a2c50fee0d (Contextual emotion study, Part 3)
+5. http://eecs.qmul.ac.uk/~simond/pub/2016/SongDixonPearceHalpern-MusicPerception2016-preprint.pdf (Perceived vs. induced emotion study, Part 3)
+
+
+## Shoutout to 
